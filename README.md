@@ -1,2 +1,2 @@
 # pycalc
-This is python calculator
+This is introdutory Matlab course
